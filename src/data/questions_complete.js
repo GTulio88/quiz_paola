@@ -105,7 +105,7 @@ const data = [
       },
       {
         question: "Tobi antes de dormir fica:",
-        options: ["Sonolento", "Inquieto", "Impaciente", "Ancioso"],
+        options: ["Sonolento", "Inquieto", "Impaciente", "Ansioso"],
         answer: "Inquieto",
       },
       {
@@ -152,7 +152,7 @@ const data = [
       },
       {
         question: "Sorrateiro é o mesmo que...",
-        options: ["Sonolento", "Inquieto", "Dissimulado", "Ancioso"],
+        options: ["Sonolento", "Inquieto", "Dissimulado", "Ansioso"],
         answer: "Dissimulado",
       },
       {
